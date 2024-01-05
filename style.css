@@ -1,0 +1,50 @@
+body{
+    background-color: #f0f0f0;
+}
+.container{
+    background-color: #0a0c1b;
+    height: 350px;
+    display: flex;
+    max-width: 800px;
+    padding: 70px;
+    margin: 50px auto;
+    border-radius: 10px;
+
+}
+.container-one{
+    background-color: #1c1938;
+    border-radius: 5px;
+    width: 800px;
+    height: 330px;
+    /* margin-right: 50px; */
+
+    
+}
+h2{
+    color: white;
+    margin-left: 55px;
+}
+span{
+    color: #ad63d4;
+}
+.p-one{
+    color: grey;
+    margin-left: 55px;
+}
+p{
+    color: white;
+}
+small{
+    color: grey;
+}
+
+.container-two img{
+    width: 400px;
+    border-radius: 5px;
+
+}
+.container-three{
+    display: flex;
+    justify-content: space-evenly;;
+
+}
